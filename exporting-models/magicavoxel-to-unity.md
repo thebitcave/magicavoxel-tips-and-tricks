@@ -16,7 +16,7 @@ In MagicaVoxel, before exporting the model, do the following steps:
 
 1. Switch to _World Editor_ \(pressing the _Tab_ key or clicking the dedicated button\)
 2. Open the _Move_ section in the _Edit_ column
-3. Click _Ground_
+3. Click the _Ground_ button
 4. Export the _.obj_ file
 5. Import it in Unity, this should fix the problem
 
