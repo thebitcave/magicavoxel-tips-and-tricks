@@ -1,16 +1,20 @@
+---
+description: Tips on importing and using models in Unity
+---
+
 # MagicaVoxel to Unity
 
 ## 1. Wrongly Placed Pivot Point
 
  _MagicaVoxel Version: 0.99.4.2-alpha_
 
-#### Problem
+### Problem
 
 Exporting a _.vox_ model to _.obj_ and importing as is it in Unity will result in a weirdly placed pivot point.
 
 ![The imported character has a wrongly placed pivot point](../.gitbook/assets/wrong_pivot.png)
 
-#### Solution
+### Solution
 
 In MagicaVoxel, before exporting the model, do the following steps:
 
