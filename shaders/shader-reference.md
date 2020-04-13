@@ -38,5 +38,27 @@ These are the available functions you can use in your shader:
 
 * `float voxel(vec3 v)`:
 
+### The map\(\) Function
 
+Each shader should have a `map()` function with this syntax:
+
+```text
+float map(vec3 v) {
+  // your code here
+}
+```
+
+This method will generate a new voxel \(of a defined color index\) al position `v`.
+
+#### Example
+
+The following code will fill the full space of your voxel model wil voxels of color index 4:
+
+```text
+float map( vec3 v ) {
+	return 4;
+}
+```
+
+![The result of the above code](../.gitbook/assets/basic_shader.png)
 
