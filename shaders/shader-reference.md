@@ -16,6 +16,10 @@ Available options are:
 
 * `-n`: followed by a number, it will iterate the shader a number of times
 
+{% hint style="info" %}
+For an introductory tutorial, please check the [Writing Your First Shader](../tutorials/writing-your-first-shader.md) tutorial.
+{% endhint %}
+
 ## Built-in
 
 A shader comes with a number of built-in functions and inputs.

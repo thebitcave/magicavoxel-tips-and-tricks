@@ -10,5 +10,8 @@
 ## Shaders
 
 * [Shader Reference](shaders/shader-reference.md)
-* [Writing Your First Shader](shaders/writing-your-first-shader.md)
+
+## Tutorials
+
+* [Writing Your First Shader](tutorials/writing-your-first-shader.md)
 
