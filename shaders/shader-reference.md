@@ -57,7 +57,7 @@ This method will generate a new voxel \(of a defined color index\) al position `
 The following code will fill the full space of your voxel model wil voxels of color index 4:
 
 ```text
-float map( vec3 v ) {
+float map(vec3 v) {
 	return 4;
 }
 ```
