@@ -8,5 +8,15 @@ description: >-
 
 To write your first shader all you need is a simple text editor: my favourite is [Visual Studio Code](https://code.visualstudio.com/), but anything will be just fine.
 
+## Creating the File
+
+
+
+## Adding the Map Function
+
+
+
+## Retrieving Parameters
+
 
 
