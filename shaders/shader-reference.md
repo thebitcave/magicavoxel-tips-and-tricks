@@ -24,21 +24,21 @@ A shader comes with a number of built-in functions and inputs.
 
 These are the available inputs you can use in your shader:
 
-* `uniform vec3 iVolumeSize`: 
+* `uniform vec3 iVolumeSize`: the voxel volume \(i.e.: the object you are editing\) dimensions
 * `uniform float iColorIndex`:
 * `uniform vec3 iMirror`:
 * `uniform vec3 iAxis`:
-* `uniform float iFrame`:
-* `uniform float iNumFrames`:
-* `uniform float iIter`:
-* `uniform vec4 iRand`:
-* `uniform float iArgs[8]`:
+* `uniform float iFrame`: ?
+* `uniform float iNumFrames`: ? 
+* `uniform float iIter`: the current iteration index
+* `uniform vec4 iRand`: a random number
+* `uniform float iArgs[8]`: an array of user parameters. Use it to pass any custom data you may need
 
 ### Functions
 
 These are the available functions you can use in your shader:
 
-* `float voxel(vec3 v)`:
+* `float voxel(vec3 v)`: returns the voxel color index at position `v`. If no voxel is present, it will return 0
 
 ### The map\(\) Function
 
