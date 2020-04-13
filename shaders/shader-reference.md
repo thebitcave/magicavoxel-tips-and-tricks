@@ -2,6 +2,8 @@
 
 ## Introduction
 
+In MagicaVoxel, a shader is a fragment of code used to generate shapes and colors in your project.
+
 You can execute a shader by typing the `xs` command in the console:
 
 ```text
