@@ -15,3 +15,7 @@
 
 * [Writing Your First Shader](tutorials/writing-your-first-shader.md)
 
+## Resources
+
+* [Tools](resources/tools.md)
+
