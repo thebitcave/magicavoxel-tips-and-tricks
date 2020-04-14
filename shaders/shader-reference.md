@@ -29,11 +29,9 @@ A shader comes with a number of built-in functions and inputs.
 These are the available inputs you can use in your shader:
 
 * `uniform vec3 iVolumeSize`: the voxel volume \(i.e.: the object you are editing\) dimensions
-* `uniform float iColorIndex`:
-* `uniform vec3 iMirror`:
-* `uniform vec3 iAxis`:
-* `uniform float iFrame`: ?
-* `uniform float iNumFrames`: ? 
+* `uniform float iColorIndex`: the selected color index in the current editor palette
+* `uniform vec3 iMirror`: the editor _Mirror Mode_ \(0 if not enabled, 1 if enabled\) for each direction \(x, y, z\)
+* `uniform vec3 iAxis`: the editor _Axis Mode_ \(0 if not enabled, 1 if enabled\) for each direction \(x, y, z\)
 * `uniform float iIter`: the current iteration index
 * `uniform vec4 iRand`: a random number
 * `uniform float iArgs[8]`: an array of user parameters. Use it to pass any custom data you may need
