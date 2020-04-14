@@ -5,7 +5,7 @@
 The project includes a set of tips and tricks that hopefully will ease your workflow with MagicaVoxel.
 
 {% hint style="info" %}
- This project is maintained by [Marco Secchi](http://marcosecchi.it/) and it is free and open-source. If you find it useful, please consider supporting it on [Patreon](https://www.patreon.com/thebitcave) or [GitHub Sponsors](https://github.com/sponsors/marcosecchi/).
+ This project is maintained by [Marco Secchi](http://marcosecchi.it/) and it is free and open-source. If you find it useful, please consider supporting it on [Patreon](https://www.patreon.com/thebitcave) or [GitHub Sponsors](https://github.com/sponsors/marcosecchi/). Alternatively, you can just [send a one-time donation on Paypal](https://www.paypal.me/secchimarco).
 {% endhint %}
 
 ## What's MagicaVoxel?
