@@ -14,9 +14,20 @@ description: This is a list of useful external tools
 * [Voxcom](https://github.com/larvalabs/voxcom): a voxel compositor for _.vox_ models
 * [OpenGameTools](https://github.com/jpaver/opengametools): a set of lightweight tools for game development, including a _.vox_ scene reader
 
-## Unity 3D
+## Unity3D
 
+*  [VoxToVFX](https://github.com/Zarbuz/VoxToVFX): imports a MagicaVoxel project to Unity3D using the VFX Graph
+* [MagicaGN00T](https://github.com/pszpiczakowski/MagicaGN00T): _.vox_ file importer for Unity3D
+* [MagicaVoxelUnitySplitter](https://github.com/tkeene/MagicaVoxelUnitySplitter): takes MagicaVoxel exported _.obj_ meshes and splits them into separate meshes based on their voxel color
+*  [CsharpVoxReader](https://github.com/barraudf/CsharpVoxReader): a generic C\# reader for the _.vox_ file format
+* \[Deprecated\] [MagicaVoxelUnity](https://github.com/darkfall/MagicaVoxelUnity): Unity3D plugin for _.vox_ file format
 
+### AssetStore Plugins
+
+* [MagicaVoxel Tools](https://assetstore.unity.com/packages/tools/utilities/magicavoxel-tools-131046?aid=1011lHJn): import/export tools
+* [MagicaVoxel Tools - Free Version](https://assetstore.unity.com/packages/tools/utilities/magicavoxel-tools-free-146116?aid=1011lHJn): import/export tools
+* [MagicaVoxel To Unity](https://assetstore.unity.com/packages/tools/modeling/magicavoxel-to-unity-63336?aid=1011lHJn): create prefab from _.vox_ and _.qb_ file with optimized mesh
+* [MagicaVoxel Import Tools](https://assetstore.unity.com/packages/tools/modeling/magicavoxel-import-tools-143489?aid=1011lHJn): create optimized prefabs from _.vox_ files
 
 ## Unreal Engine
 
