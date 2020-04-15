@@ -19,4 +19,5 @@
 
 * [Generic Resources](resources/graphical-resources.md)
 * [Tools](resources/tools.md)
+* [Shader Resources](shader-resources.md)
 
