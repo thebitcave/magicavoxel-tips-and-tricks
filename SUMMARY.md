@@ -18,5 +18,5 @@
 ## Resources
 
 * [Tools](resources/tools.md)
-* [Graphical Resources](graphical-resources.md)
+* [Generic Resources](graphical-resources.md)
 

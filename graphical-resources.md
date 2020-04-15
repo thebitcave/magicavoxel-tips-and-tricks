@@ -1,4 +1,4 @@
-# Graphical Resources
+# Generic Resources
 
 ## Palettes
 
