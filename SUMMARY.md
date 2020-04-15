@@ -15,6 +15,7 @@
 ## Tutorials
 
 * [Writing Your First Shader](tutorials/writing-your-first-shader.md)
+* [Web tutorials](tutorials/web-tutorials.md)
 
 ## Resources
 
