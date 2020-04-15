@@ -10,6 +10,7 @@
 ## Shaders
 
 * [Shader Reference](shaders/shader-reference.md)
+* [Shader Resources](shaders/shader-resources.md)
 
 ## Tutorials
 
@@ -19,5 +20,4 @@
 
 * [Generic Resources](resources/graphical-resources.md)
 * [Tools](resources/tools.md)
-* [Shader Resources](shader-resources.md)
 
