@@ -1,4 +1,4 @@
-# Web tutorials
+# Tutorial List
 
 ## Tutorials
 

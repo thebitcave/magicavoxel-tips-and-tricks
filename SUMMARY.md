@@ -14,8 +14,10 @@
 
 ## Tutorials
 
+* [Tutorial List](tutorials/web-tutorials.md)
+* [Speed Art](tutorials/speed-art.md)
+* [Blender Integration](tutorials/blender-integration.md)
 * [Writing Your First Shader](tutorials/writing-your-first-shader.md)
-* [Web tutorials](tutorials/web-tutorials.md)
 
 ## Resources
 
