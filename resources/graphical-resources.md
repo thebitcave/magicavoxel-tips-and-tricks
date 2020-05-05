@@ -9,6 +9,7 @@
 ## Reference
 
 * [Ephtracy Voxel Model](https://github.com/ephtracy/voxel-model)
+* [File Format Specification](https://github.com/ephtracy/voxel-model/blob/master/MagicaVoxel-file-format-vox.txt)
 
 ## Cheatsheets
 
@@ -29,6 +30,8 @@
 ## Articles
 
 * [Art Design Deep Dive: The gorgeous voxel creatures of Fugl](https://www.gamasutra.com/view/news/342524/Art_Design_Deep_Dive_The_gorgeous_voxel_creatures_of_Fugl.php)
+
+
 
 
 
