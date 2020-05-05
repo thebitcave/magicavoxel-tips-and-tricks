@@ -20,3 +20,15 @@
 * [MagicaVoxel Palettes](https://github.com/mattperrin/MagicaVoxelPalettes) \(by Matt Perrin\): a collection of MagicaVoxel palettes
 * [MagicaVoxel Retro Palettes](https://www.zingot.com/resources.html) \(by Zingot Games\): includes numerous retro styled palettes
 
+## Blogs & Portfolios
+
+* [VoxelMade](http://www.voxelmade.com/) \(by Thibault Simar\)
+* [MegaVoxels](https://www.megavoxels.com/)
+* [Daishi Blog \(Jp\)](http://github.dev7.jp/b/tags/MagicaVoxel/)
+
+## Articles
+
+* [Art Design Deep Dive: The gorgeous voxel creatures of Fugl](https://www.gamasutra.com/view/news/342524/Art_Design_Deep_Dive_The_gorgeous_voxel_creatures_of_Fugl.php)
+
+
+

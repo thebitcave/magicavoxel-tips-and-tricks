@@ -23,4 +23,5 @@
 
 * [Generic Resources](resources/graphical-resources.md)
 * [Tools](resources/tools.md)
+* [Social](resources/social.md)
 
