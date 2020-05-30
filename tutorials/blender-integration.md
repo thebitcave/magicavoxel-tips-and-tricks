@@ -10,7 +10,3 @@
 
 
 
-### Mixamo Integration
-
-
-
