@@ -42,3 +42,9 @@ description: This is a list of useful external tools
 * [vox.js](http://github.dev7.jp/vox.js/): _.vox_ file parser and [three.js](https://threejs.org/) mesh builder
 * [Parse MagicaVoxel](https://github.com/kevzettler/parse-magica-voxel): npm library that parses _.vox_ files to JavaScript objects
 
+### Java
+
+* [JVox](https://github.com/Lignum/JVox): A MagicaVoxel model parser written in Java
+
+
+
