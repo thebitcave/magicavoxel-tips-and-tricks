@@ -2,7 +2,10 @@
 
 ## Tutorials
 
-
+* [How I did my first 3D model](https://medium.com/@Tiagojdferreira/how-i-did-my-first-3d-model-magicavoxel-tutorial-6273319486e6)
+* [Loading MagicaVoxel models in Three.js](https://luciopaiva.com/magicavoxel-threejs-howto/)
+* [MagicaVoxel 3D Art Tutorial](https://www.raywenderlich.com/375-magicavoxel-3d-art-tutorial)
+* \[Deprecated\] [Animate MagicaVoxel](http://drinkdecaf.com/magicavoxel_animate)
 
 ### Sketchfab
 
@@ -23,6 +26,8 @@ You can find more info about A-Frame here: [https://aframe.io/](https://aframe.i
 You can find more info about Trove here: [https://www.trovegame.com/en/play-now/](https://www.trovegame.com/en/play-now/)
 
 * [MagicaVoxel Tutorial- Trove Edition](https://ritztales.wordpress.com/2014/07/18/magicavoxel-tutorial-trove-edition/)
+
+## Video Tutorials
 
 
 
