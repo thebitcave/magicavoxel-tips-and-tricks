@@ -7,6 +7,7 @@
 * [Eric’s MagicaVoxel Shaders](https://github.com/CodingEric/Erics-MagicaVoxel-Shaders): collection of shaders including terrain generator, life game, waterflow emulator, etc.
 * [PseudoFractals Voxel Shader](https://github.com/kchapelier/pseudofractals-voxel-shader): shader to generate pseudofractals volumes
 * [XELF Shaders](https://github.com/xelfia/XELF.MagicaVoxel.Shaders): a collection of shaders
+* [Patrick Seebert VoxelShader](https://github.com/patStar/voxelShader): repository of voxel shaders including _Overgrowth_, _Corrosion_ and _Patina_ 
 
 ## Tools
 
